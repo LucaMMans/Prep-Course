@@ -1,0 +1,13 @@
+#divClass > h1 {color:darkred} 
+
+#ThirdDiv > ul > li > img {width: 400px;} 
+
+#ThirDiv {
+        width:500px; 
+        height:600px;
+        background-color: blue;
+        padding: 50px;
+        border: 7px red;}
+        
+#spanId {   font-size:18px;
+            margin: 50px;  }
